@@ -9,6 +9,7 @@ public class ExtraCredit {
 
 
     public static String calculateTip(int people, int percent, double cost, String items) {
+        // This is where i learned how to use big decimal from https://medium.com/quick-code/how-to-use-bigdecimal-in-java-accurately-f71ae959f9da
         StringBuilder result = new StringBuilder();
        
                 //COPY AND PASTE YOUR CODE HERE 
